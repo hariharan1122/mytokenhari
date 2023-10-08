@@ -5,7 +5,7 @@ I have created this code using the solidity programming language. The contract n
 
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. It has been created using many functions which have been listed below
 # Public variables
-The code starts with assigning the name and abbreviation of the token using a string variable. The  name is token name is  'hariyods' and abbreviation as 'HR'
+The code starts with assigning the name and abbreviation of the token using a string variable. The  name is token name is  'hariyods' and abbreviation as 'hira'
 # Mapping variable
 The mapping of the variable is conducted in the second part of the program. This simply means that if the address is given by any user it should display back the balance amount of tokens.
 # Mint function
